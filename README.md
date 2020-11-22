@@ -1,0 +1,2 @@
+# SimplexSlover
+Simplex Solver Program
